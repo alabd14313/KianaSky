@@ -84,6 +84,12 @@ gdjs.New_32sceneCode.GDBottomButtonObjects3= [];
 gdjs.New_32sceneCode.GDFadeInObjects1= [];
 gdjs.New_32sceneCode.GDFadeInObjects2= [];
 gdjs.New_32sceneCode.GDFadeInObjects3= [];
+gdjs.New_32sceneCode.GDNewSpriteObjects1= [];
+gdjs.New_32sceneCode.GDNewSpriteObjects2= [];
+gdjs.New_32sceneCode.GDNewSpriteObjects3= [];
+gdjs.New_32sceneCode.GDkianaObjects1= [];
+gdjs.New_32sceneCode.GDkianaObjects2= [];
+gdjs.New_32sceneCode.GDkianaObjects3= [];
 
 gdjs.New_32sceneCode.conditionTrue_0 = {val:false};
 gdjs.New_32sceneCode.condition0IsTrue_0 = {val:false};
@@ -103,7 +109,7 @@ gdjs.New_32sceneCode.eventsList0 = function(runtimeScene) {
 gdjs.New_32sceneCode.condition0IsTrue_0.val = false;
 {
 {gdjs.New_32sceneCode.conditionTrue_1 = gdjs.New_32sceneCode.condition0IsTrue_0;
-gdjs.New_32sceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8552740);
+gdjs.New_32sceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8576996);
 }
 }if (gdjs.New_32sceneCode.condition0IsTrue_0.val) {
 {gdjs.evtTools.sound.playSound(runtimeScene, "https://resources.gdevelop-app.com/examples/platformer/jump.wav", false, 100, 1);
@@ -722,7 +728,7 @@ gdjs.New_32sceneCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesColli
 }if ( gdjs.New_32sceneCode.condition0IsTrue_0.val ) {
 {
 {gdjs.New_32sceneCode.conditionTrue_1 = gdjs.New_32sceneCode.condition1IsTrue_0;
-gdjs.New_32sceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8572236);
+gdjs.New_32sceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8596492);
 }
 }}
 if (gdjs.New_32sceneCode.condition1IsTrue_0.val) {
@@ -1313,6 +1319,12 @@ gdjs.New_32sceneCode.GDBottomButtonObjects3.length = 0;
 gdjs.New_32sceneCode.GDFadeInObjects1.length = 0;
 gdjs.New_32sceneCode.GDFadeInObjects2.length = 0;
 gdjs.New_32sceneCode.GDFadeInObjects3.length = 0;
+gdjs.New_32sceneCode.GDNewSpriteObjects1.length = 0;
+gdjs.New_32sceneCode.GDNewSpriteObjects2.length = 0;
+gdjs.New_32sceneCode.GDNewSpriteObjects3.length = 0;
+gdjs.New_32sceneCode.GDkianaObjects1.length = 0;
+gdjs.New_32sceneCode.GDkianaObjects2.length = 0;
+gdjs.New_32sceneCode.GDkianaObjects3.length = 0;
 
 gdjs.New_32sceneCode.eventsList11(runtimeScene);
 return;
