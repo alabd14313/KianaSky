@@ -1,2 +1,2 @@
 **KianaSky Game**
-[a relative link](index.html)
+[PLAY](./index.html)
