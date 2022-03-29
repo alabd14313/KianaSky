@@ -1,3 +1,3 @@
 # KianaSky Game
 [PLAY](./index.html)
-## Enjoy
+## Enjoy now
