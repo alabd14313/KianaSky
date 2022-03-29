@@ -1,3 +1,5 @@
 # KianaSky Game
 [PLAY](./index.html)
-## Enjoy now
+Hello everyone!
+I'm Kiana. This is my first game.
+Enjoy now...
